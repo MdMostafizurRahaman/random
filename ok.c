@@ -3,4 +3,5 @@ int main()
 {
     printf("okkkk");
     int z;
+    int x;
 }
