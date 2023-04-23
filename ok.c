@@ -2,4 +2,5 @@
 int main()
 {
     printf("okkkk");
+    int z;
 }
